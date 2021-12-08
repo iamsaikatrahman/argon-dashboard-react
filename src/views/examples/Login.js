@@ -19,7 +19,7 @@
 // reactstrap components
 import useAuth from "hooks/useAuth";
 import { useState } from "react";
-import { useHistory } from "react-router";
+import { useHistory } from "react-router-dom";
 import {
   Button,
   Card,
